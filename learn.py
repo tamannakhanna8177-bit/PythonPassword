@@ -1,1 +1,1 @@
-print("Tamannha")
+print("Tamanna Khanna")
